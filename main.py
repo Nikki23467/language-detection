@@ -142,7 +142,7 @@ def main():
     st.markdown("""
         <hr style="margin-top: 3rem;">
         <div style='text-align: center; font-size: 0.9rem; color: gray;'>
-            © 2025 All rights reserved | Developed by using<strong style='color:#4CAF50;'> GEMINI AI</strong>
+            © 2025 All rights reserved | Developed by<strong style='color:#4CAF50;'> NIKHILESH</strong>
         </div>
     """, unsafe_allow_html=True)
 
