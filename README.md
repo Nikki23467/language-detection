@@ -11,3 +11,4 @@ A Streamlit web application that detects the language of the input text using th
 - 📄 **Environment Configuration**: Secure API key handling using `.env` files.
 
 > 📝 **Note:** Due to how Streamlit session state and rerun handling works, you may need to **click the Login or Logout button twice** to fully transition between states.
+> Try it out here: https://language-detection-nikhilesh.streamlit.app/
